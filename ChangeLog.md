@@ -1,3 +1,7 @@
+## Changes between Bunny 1.0.0.pre3 and 1.0.0.pre4
+
+No changes yet
+
 ## Changes between Bunny 1.0.0.pre2 and 1.0.0.pre3
 
 This release has **breaking API changes**.
